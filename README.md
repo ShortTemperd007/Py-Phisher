@@ -30,14 +30,6 @@ This project is now a part of [MaxPhisher](https://github.com/KasRoudra/MaxPhish
 
 ##### Install dependencies (git, python, php ssh)
 
- - For Debian (Ubuntu, Kali-Linux, Parrot)
-    - ```sudo apt install git python3 php openssh-client -y```
- - For Arch (Manjaro)
-    - ```sudo pacman -S git python3 php openssh --noconfirm```
- - For Redhat(Fedora)
-    - ```sudo dnf install git python3 php openssh -y```
- - For Termux
-    - ```pkg install git python3 php openssh -y```
 
 ##### Clone this repository
 
@@ -63,51 +55,9 @@ wget https://raw.githubusercontent.com/KasRoudra/PyPhisher/main/pyphisher.py && 
  - `sudo pip3 install pyphisher` [For Linux]
  - `pyphisher`
 
-### Docker
 
- - `sudo docker pull kasroudra/pyphisher`
- - `sudo docker run --rm -it kasroudra/pyphisher`
 
-### Support
 
-OS         | Support Level
------------|--------------
-Linux      | Excellent
-Android    | Excellent
-iPhone     | Alpha (Recommended docker)
-MacOS      | Alpha (Recommended docker)
-Windows    | Unsupported (Use docker/virtual-box/vmware)
-BSD        | Never tested
-
-#### Options
-
-```
-usage: pyphisher.py [-h] [-p PORT] [-o OPTION] [-t TUNNELER]
-                    [-r REGION] [-s SUBDOMAIN] [-u URL] [-m MODE]
-                    [-e TROUBLESHOOT] [--nokey] [--noupdate]
-
-options:
-  -h, --help            show this help message and exit
-  -p PORT, --port PORT  PyPhisher's server port [Default : 8080]
-  -o OPTION, --option OPTION
-                        PyPhisher's template index [Default : null]
-  -t TUNNELER, --tunneler TUNNELER
-                        Tunneler to be chosen while url shortening
-                        [Default : Cloudflared]
-  -r REGION, --region REGION
-                        Region for loclx [Default: auto]
-  -s SUBDOMAIN, --subdomain SUBDOMAIN
-                        Subdomain for loclx [Pro Account]
-                        (Default: null)
-  -u URL, --url URL     Redirection url after data capture [Default :
-                        null]
-  -m MODE, --mode MODE  Mode of PyPhisher [Default: normal]
-  -e TROUBLESHOOT, --troubleshoot TROUBLESHOOT
-                        Troubleshoot a tunneler [Default: null]
-  --nokey               Use localtunnel without ssh key [Default:
-                        False]
-  --noupdate            Skip update checking [Default : False]
-```
 
 ### Features:
 
@@ -126,10 +76,6 @@ options:
  - Redirection URL settings
  - Portable file (Can be run from any directory)
  - Get IP Address and many other details along with login credentials
-
-#### Relevant Tools by Me
- - [CamHacker](https://github.com/KasRoudra/CamHacker) for image phishing
- - [VidPhisher](https://github.com/KasRoudra/VidPhisher) for video phishing
 
 
 ### Requirements
@@ -164,12 +110,6 @@ If not found, php and python modoules will be installed on first run
 
 ![PyPhisher](https://raw.githubusercontent.com/KasRoudra/PyPhisher/main/files/pyphisher.gif)
 
-## Video Tutorial
-<a href="https://rebrand.ly/pyphishervideo">PyPhisher in Termux</a>
-<br/>
-<a href="https://youtu.be/xIEuJkmJ8F0">PyPhisher in Kali Linux by InfoSecPat</a>
-<br/>
-<a href="https://youtu.be/ueF6fNHD8MM">PyPhisher in Kali Linux by Sathvik</a>
 
 ## Whats new in 1.8?
  - *Mailing*
@@ -211,19 +151,13 @@ If not found, php and python modoules will be installed on first run
 Some base codes and templates are from [htr-tech](https://github.com/htr-tech/zphisher), otp templates are from [ignitech](https://guthub.com/ignitech/AdvPhishing) and url masking is inspired from [jaykali](https://github.com/jaykali/maskphish)
 
 
-### [*] Support
-####  Want to show support? Just spread the word and smash the star button
-###### Donate BTC: ***3Lx8ikQQgZZpmFJzHDBuQHXzLXMeWMcZF3***
-
 ## [~] Find Me on :
 
-- [![Github](https://img.shields.io/badge/Github-KasRoudra-purple?style=for-the-badge&logo=github)](https://github.com/KasRoudra)
+- [![Github](https://github.com/ShortTemperd007)
 
-- [![Gmail](https://img.shields.io/badge/Gmail-KasRoudra-green?style=for-the-badge&logo=gmail)](mailto:kasroudrakrd@gmail.com)
+- [![Facebook](https://www.facebook.com/ahnaf.honey/)
 
-- [![Facebook](https://img.shields.io/badge/Facebook-KasRoudra-blue?style=for-the-badge&logo=facebook)](https://facebook.com/KasRoudra)
+- [![instagram](https://www.instagram.com/shorttemperd007/)
 
-- [![Messenger](https://img.shields.io/badge/Messenger-KasRoudra-orange?style=for-the-badge&logo=messenger)](https://m.me/KasRoudra)
-
-- [![Telegram](https://img.shields.io/badge/Telegram-KasRoudra-indigo?style=for-the-badge&logo=telegram)](https://t.me/KasRoudra)
+- [![substack](https://substack.com/profile/127349544-muhammad-huzaifa?utm_source=user-menu)
 
