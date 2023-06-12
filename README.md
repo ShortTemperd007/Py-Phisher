@@ -153,11 +153,11 @@ Some base codes and templates are from [htr-tech](https://github.com/htr-tech/zp
 
 ## [~] Find Me on :
 
-- [![Github](https://github.com/ShortTemperd007)
+- Github (https://github.com/ShortTemperd007)
 
-- [![Facebook](https://www.facebook.com/ahnaf.honey/)
+- Facebook (https://www.facebook.com/ahnaf.honey/)
 
 - Instagram (https://www.instagram.com/shorttemperd007/)
 
-- [![substack](https://substack.com/profile/127349544-muhammad-huzaifa?utm_source=user-menu)
+- substack (https://substack.com/profile/127349544-muhammad-huzaifa?utm_source=user-menu)
 
