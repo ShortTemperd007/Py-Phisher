@@ -157,7 +157,7 @@ Some base codes and templates are from [htr-tech](https://github.com/htr-tech/zp
 
 - [![Facebook](https://www.facebook.com/ahnaf.honey/)
 
-- [![instagram](https://www.instagram.com/shorttemperd007/)
+- Instagram (https://www.instagram.com/shorttemperd007/)
 
 - [![substack](https://substack.com/profile/127349544-muhammad-huzaifa?utm_source=user-menu)
 
